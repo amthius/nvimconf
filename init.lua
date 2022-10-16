@@ -16,12 +16,6 @@ end
 
 local packer_bootstrap = ensure_packer()
 
-local function TableLength(t)
-	local c = 0
-	for _ in pairs(t) do c = c + 1 end
-	return c
-end
-
 local function GetSeperator(OS)
     if OS == "Windows_NT" then
         return vim.fn.readdir(vim.fn.stdpath('config').."\\lua\\plugins")
