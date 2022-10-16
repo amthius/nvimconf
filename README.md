@@ -5,4 +5,3 @@
 https://github.com/BurntSushi/ripgrep
 ```
 # Installation
-Current there is none, just download and drag nvim to the appropriate location of your system.
