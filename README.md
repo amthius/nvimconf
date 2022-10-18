@@ -7,7 +7,7 @@
 - Used for [Telescope.nvim](https://github.com/nvim-telescope/telescope.nvim)
 ### Nerd Font
 > https://www.nerdfonts.com/font-downloads
-- Used the custom glyphs
+- Used for custom glyphs
 # Installation
 ## Windows (Powershell)
 
