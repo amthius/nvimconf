@@ -1,4 +1,5 @@
 # Personal neovim config
+I mostly made this as a learning journey, but it is something I plan to use and improve over time. 
 # Requirements
 - Neovim Version 0.8 and up
 # Dependencies
