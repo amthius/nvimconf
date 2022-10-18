@@ -5,7 +5,7 @@
 https://github.com/BurntSushi/ripgrep
 ```
 # Installation
-Windows
+## Windows (Powershell)
 ```ps1
 git clone https://github.com/dann0001/nvimconf "$env:LOCALAPPDATA\nvim";Remove-Item -Path "$env:LOCALAPPDATA\nvim\README.md";Remove-Item -Recurse -Force "$env:LOCALAPPDATA\nvim\.git"
 ```
