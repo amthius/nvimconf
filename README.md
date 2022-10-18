@@ -1,10 +1,11 @@
 # Personal neovim config
 # Dependencies
-`ripgrep` may be the only dependency listed here and needed for something like [Telescope.nvim](https://github.com/nvim-telescope/telescope.nvim)
-```
-https://github.com/BurntSushi/ripgrep
-https://www.nerdfonts.com/font-downloads
-```
+### Ripgrep
+> https://github.com/BurntSushi/ripgrep
+- Used for [Telescope.nvim](https://github.com/nvim-telescope/telescope.nvim)
+### Nerd Font
+> https://www.nerdfonts.com/font-downloads
+- Used the custom glyphs
 # Installation
 ## Windows (Powershell)
 ```ps1
