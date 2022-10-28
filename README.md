@@ -16,7 +16,7 @@ I mostly made this as a learning journey, but it is something I plan to use and 
 git clone https://github.com/dann0001/nvimconf "$env:LOCALAPPDATA\nvim";Remove-Item -Path "$env:LOCALAPPDATA\nvim\README.md";Remove-Item -Recurse -Force "$env:LOCALAPPDATA\nvim\.git"
 ```
 
-## Unix/Linux
+## Unix (Linux/MacOS)
 ```bash
 git clone https://github.com/dann0001/nvimconf ~/.config/nvim && rm -rf ~/.config/nvim/.git && rm -rf ~/.config/nvim/README.md
 ```
