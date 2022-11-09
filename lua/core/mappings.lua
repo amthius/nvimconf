@@ -35,6 +35,9 @@ keymap("v", ">", ">gv", opts)
 -- Close buffer
 keymap("n", "<leader>x", "<cmd> bd <CR>", opts)
 
+-- Reindent entire file
+keymap("n", "<leader>ff", "gg=G''", opts)
+
 ----------------------------
 -- Plugin related keymapping
 ----------------------------
